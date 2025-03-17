@@ -26,16 +26,16 @@ Cat Reload - Project Task 1
 ## Screenshots
 
 ### Storing Data
-![Storing Data](path/to/storing_screenshot.png)
+![Storing Data](loading.png)
 
 ### Loading Data
-![Loading Data](path/to/loading_screenshot.png)
+![Loading Data](loading.png)
 
 ### Validation
-![Validation](Screenshot 2025-03-17 223922.png)
+![Validation](validation.png)
 
 ### Search
-![Search](Screenshot 2025-03-17 223922.png)
+![Search](search.png)
 
 
 
